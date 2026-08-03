@@ -2,7 +2,7 @@
 
 Учебный фронтенд-проект, выполненный в рамках курса «Фронтенд-разработчик» от Яндекс Практикума.
 
-[![Открыть проект](https://img.shields.io/badge/Demo-Открыть_проект-green?style=for-the-badge)](https://afanassk.github.io/posmotri-v-okno/) [![Макет](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ApJjZAA3pBv2tCZM9E2ul2/2-спринт.-Посмотри-в-окно?node-id=1-363&t=A0AVrt9oj3DLkAjn-0)
+[![Открыть проект](https://img.shields.io/badge/Demo-Открыть_проект-green?style=for-the-badge)](https://afanassk.github.io/posmotri-v-okno/) [![Открыть макет](https://img.shields.io/badge/Figma-Открыть_макет-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/ApJjZAA3pBv2tCZM9E2ul2/2-спринт.-Посмотри-в-окно?node-id=1-363&t=A0AVrt9oj3DLkAjn-0)
 
 ---
 
