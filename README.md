@@ -76,7 +76,7 @@ git clone git@github.com:afanassk/posmotri-v-okno.git
 2. Перейдите в директорию проекта:
 
 ```bash
-posmotri-v-okno
+cd posmotri-v-okno
 ```
 
 3. Откройте файл `index.html` в браузере.
